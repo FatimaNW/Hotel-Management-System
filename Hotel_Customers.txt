@@ -1,0 +1,18 @@
+
+Room Number: 12
+Name: Fatima Nadeem
+Phone Number: 03991234567
+Duration of stay: 3 days
+Guest ID: 24477
+
+Room Number: 3
+Name: Jason
+Phone Number: 02152864657
+Duration of stay: 5 days
+Guest ID: 24758
+
+Room Number: 5
+Name: Remus Lupin
+Phone Number: 12345678901
+Duration of stay: 2 days
+Guest ID: 24758
