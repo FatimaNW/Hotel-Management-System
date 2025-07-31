@@ -53,3 +53,6 @@ No login is required. You can:
 These files are automatically created/updated when guest details or feedback are entered:
 - `Hotel_Customers.txt`: Stores guest records including room details and personal information.
 - `Hotel_Feedback.txt`: Stores feedback and ratings given by guests.
+
+#
+**Note:** This project was created during my second semester of university as part of Object Oriented Programming course.
